@@ -1,0 +1,10 @@
+# Ignorar archivos auxiliares de LaTeX
+proyecto-latex/output/*.aux
+proyecto-latex/output/*.log
+proyecto-latex/output/*.out
+proyecto-latex/output/*.toc
+proyecto-latex/output/*.fls
+proyecto-latex/output/*.fdb_latexmk
+proyecto-latex/output/*.synctex.gz
+proyecto-latex/output/*.bbl
+proyecto-latex/output/*.blg
